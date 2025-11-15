@@ -1,1 +1,0 @@
-# OIPMS-Sentinel-Sharpness-
